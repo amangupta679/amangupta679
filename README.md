@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/@guptaman679" target="blank"><img src="https://img.shields.io/twitter/follow/@guptaman679?logo=twitter&style=for-the-badge" alt="@guptaman679" /></a> </p>
 
-- 🌱 I’m currently learning **DS & ALGO IN C++**
+- 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **FLUTTER**
+- 💬 Ask me about **Devops**
 
 - 📫 How to reach me **guptaaman679@gmail.com**
 
